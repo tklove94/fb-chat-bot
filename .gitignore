@@ -1,0 +1,11 @@
+appstate.json
+.env
+package-lock.json
+_config.yml
+node_modules/
+logs/
+config/data.sqlite
+app/handle/src/groupID.json
+app/handle/src/listThread.json
+app/handle/src/shortcut.json
+.gitignore

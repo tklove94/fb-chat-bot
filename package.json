@@ -1,0 +1,68 @@
+{
+	"name": "project-mirai",
+	"version": "4.7.2",
+	"description": "Project Mirai sẽ biến tài khoản Facebook của bạn trở thành một con bot thú vị.",
+	"newDB": false,
+	"main": "index.js",
+	"scripts": {
+		"start": "pm2 start app.config.js --no-daemon"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/catalizcs/mirai.git"
+	},
+	"keywords": [
+		"bot",
+		"facebook",
+		"messenger",
+		"projectmirai",
+		"mirai",
+		"catalizcs",
+		"spermlord"
+	],
+	"author": "CatalizCS & SpermLord",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/catalizcs/mirai/issues"
+	},
+	"homepage": "https://github.com/catalizcs/mirai#readme",
+	"engines": {
+		"node": "12.x"
+	},
+	"dependencies": {
+		"axios": "",
+		"caesar-salad": "",
+		"canvas": "",
+		"chalk": "",
+		"cheerio": "",
+		"chem-eb": "",
+		"dotenv": "",
+		"express": "",
+		"fca-unofficial": "",
+		"file-type": "",
+		"fs-extra": "",
+		"jimp": "",
+		"md5": "",
+		"moment-timezone": "",
+		"morsify": "",
+		"node-cmd": "",
+		"node-pre-gyp": "",
+		"oauth": "",
+		"os-utils": "",
+		"parse-ms": "",
+		"pg": "",
+		"pg-hstore": "",
+		"pm2": "",
+		"readline": "",
+		"request": "",
+		"sagiri": "",
+		"sequelize": "",
+		"simple-git": "",
+		"sqlite3": "",
+		"string-similarity": "",
+		"text2png": "",
+		"totp-generator": "",
+		"wikijs": "",
+		"ytdl-core": ""
+	}
+}
